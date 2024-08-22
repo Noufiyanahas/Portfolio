@@ -1,0 +1,43 @@
+img:hover{
+    transform: scaleX(-1);
+
+}
+.text-color{
+    color: aqua;
+}
+body {
+    background-color:rgb(18, 2, 49)
+  }
+.text{
+    text-align: center;
+}
+.span-head{
+    text-align: center;
+}
+.alignment a{
+
+    margin-left: 30%;
+    color: aliceblue;
+}
+.alignment a:hover{
+color: aqua;
+}
+#home-section{
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+#about-section{
+    padding-top: 100px;
+    padding-bottom: 130px;
+}
+#resume-section{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+#project-section{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+#contact-section{
+    padding-bottom: 180px;
+}
